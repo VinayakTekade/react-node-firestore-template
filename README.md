@@ -42,3 +42,24 @@ NODE_ENV=development
 ###Step 2:
 
 Create service account key from firebase and put it in the root of the directory with the name `saKey.json`
+
+## How to run the App
+
+The following are the steps to run the app
+
+1. Clone the repository
+   `git clone https://github.com/VinayakTekade/react-node-firestore-template.git`
+2. Install all the dependencies
+   `npm install`
+3. Initialise Firebase as mentioned above.
+4. Start the app
+   `npm run develop`
+
+## How to report bugs or issues?
+
+Report [here](https://github.com/VinayakTekade/react-node-firestore-template/issues) in detail answering these questions:
+
+-   What steps did you take to make the bug appear?
+-   How can the bug be fixed? (In case you know)
+-   Which OS and which all packages/software/dependencies are you using?
+-   Have you tried any troubleshooting steps such as a reboot for example?
